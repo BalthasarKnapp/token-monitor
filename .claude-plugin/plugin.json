@@ -1,0 +1,6 @@
+{
+  "name": "token-monitor",
+  "version": "0.1.0",
+  "description": "Panel neben dem Chat: Token-Verbrauch (Session, heute, Monat, gesamt), 5h- und Wochenlimit, Kosten nach API-Preis, Aufteilung nach Modell und Projekt, Tagesverlauf.",
+  "types": "./types/index.d.ts"
+}
